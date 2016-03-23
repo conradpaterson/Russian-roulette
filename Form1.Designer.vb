@@ -125,6 +125,7 @@ Partial Class MainMenu
         '
         Me.tbPlayer1AccumPoints.Location = New System.Drawing.Point(431, 204)
         Me.tbPlayer1AccumPoints.Name = "tbPlayer1AccumPoints"
+        Me.tbPlayer1AccumPoints.ReadOnly = True
         Me.tbPlayer1AccumPoints.Size = New System.Drawing.Size(60, 20)
         Me.tbPlayer1AccumPoints.TabIndex = 9
         '
@@ -150,6 +151,7 @@ Partial Class MainMenu
         '
         Me.tbPlayer2AccumPoints.Location = New System.Drawing.Point(431, 370)
         Me.tbPlayer2AccumPoints.Name = "tbPlayer2AccumPoints"
+        Me.tbPlayer2AccumPoints.ReadOnly = True
         Me.tbPlayer2AccumPoints.Size = New System.Drawing.Size(60, 20)
         Me.tbPlayer2AccumPoints.TabIndex = 12
         '
